@@ -1,0 +1,17 @@
+.bustext{
+    width: 39%;
+    background: #fff;
+    border: 1px solid #eee;
+    justify-items: center;
+    display: flex;
+    position: relative;
+    top: -87px;
+    z-index: 0 auto;
+    margin: 0 auto;
+    box-shadow: 1px 1px 1px 1px #eee;
+}
+.text{   
+     font-size: 19px;
+    margin-top: 10px;
+    text-align: left;
+}
