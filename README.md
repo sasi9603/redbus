@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Busred
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Redbus
 >>>>>>> ace26168e6234a4eff6212576bdb1ce834408204
+=======
+# redbus
+>>>>>>> 9561bb3f0ca2d6450eab409b37b480340fc2d8df
